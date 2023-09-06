@@ -20,7 +20,7 @@
 - Prompt-er Day Seoul 2023 Gen AI 해커톤 : 2023. 08 ~ ...
   - [팔로알토 팀의 PlantPal 프론트엔드 개발(단독)(Flutter)](https://github.com/jhy0285/Admin-Web)
 
-
+<br>
 
 |Techs that I've used at least once 👍|Techs that I'm focusing on 🔥| Techs that I want to learn 🌈|
 |---|---|---|
@@ -32,8 +32,8 @@
 
 <br>
 
+ 
 
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhy0285&&show_icons=true&theme=dark)<br> <br>
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhy0285&&show_icons=true&theme=dark)&nbsp; &nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhy0285&layout=compact" width=300>
 
 
