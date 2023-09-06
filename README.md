@@ -14,7 +14,7 @@
   -  [웹앱 어드민 대쉬보드 페이지(단독)(Flutter)](https://github.com/jhy0285/Admin-Web)
   -  [어드민 대쉬보드 서버(팀 단위)(SpringBoot)](https://github.com/jhy0285/Admin-Web)
 -  JupJup 프론트엔드 개발 : 2022. 12. 24 ~ 2023. 02. 25
-  -  [우리동네 마감할인 플랫폼 JupJup(단독)(Flutter)](https://github.com/jhy0285/Admin-Web)
+    -  [우리동네 마감할인 플랫폼 JupJup(단독)(Flutter)](https://github.com/jhy0285/Admin-Web)
 - KaKao Tech Campus 백엔드 코스 : 2023. 03 ~ ...
   - [카카오톡 쇼핑하기 서버(단독)(SpringBoot)](https://github.com/jhy0285/Admin-Web)
 - Prompt-er Day Seoul 2023 Gen AI 해커톤 : 2023. 08 ~ ...
@@ -35,6 +35,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhy0285&&show_icons=true&theme=dark)<br> <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhl8109%2Fhit-counter&count_bg=%2300D4FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)                  
 
 
