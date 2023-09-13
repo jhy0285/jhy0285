@@ -10,7 +10,7 @@
 | **External activities** | 2023. 08 (in progress) | SK텔레콤과 OpenAI가 삶을 한층 더 발전시키자는 취지로 개최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
 
 ## 📂 Project
-- Pathfinder 인턴   : 2022. 06. 27 ~ 2023. 01. 31
+- 웹어드민 외주   : 2022. 06. 27 ~ 2023. 01. 31
   -  [웹앱 어드민 대쉬보드 페이지(단독)(Flutter)](https://github.com/jhy0285/Admin-Web)
   -  [어드민 대쉬보드 서버(팀 단위)(SpringBoot)](https://github.com/jhy0285/Admin_Backend)
 -  JupJup 프론트엔드 개발 : 2022. 12. 24 ~ 2023. 02. 25
