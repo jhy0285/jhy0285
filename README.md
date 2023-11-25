@@ -26,12 +26,11 @@
 - KaKao Tech Campus 백엔드 3단계(링크나무 프로젝트)  : 2023. 09 ~ 2023. 11
   - [링크나무(팀 단위)(SpringBoot)](https://github.com/jhy0285/Team9_BE)
 
-
 ## 📓 Study
-- Computer Science 
-- Spring Boot 꿀통(정리)
-- Data InfraStructure
-- DB
+- [Computer Science](https://github.com/jhy0285/computer-science) 
+- [Spring Boot 꿀통(정리)](https://github.com/jhy0285/spring-boot)
+- [Data InfraStructure](https://github.com/jhy0285/data-infrastructure)
+- [DataBase](https://github.com/jhy0285/database)
 
 <br>
 
