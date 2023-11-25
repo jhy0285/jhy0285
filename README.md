@@ -28,7 +28,7 @@
 
 
 ## 📓 Study
-- Computer Science 공부
+- Computer Science 
 - Spring Boot 꿀통(정리)
 - Data InfraStructure
 - DB
