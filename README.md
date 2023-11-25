@@ -20,7 +20,7 @@
 -  JupJup 프론트엔드 개발 : 2022. 12. 24 ~ 2023. 02. 25
     -  [우리동네 마감할인 플랫폼 JupJup(단독)(Flutter)](https://github.com/jhy0285/flutter_jupjup)
 - Prompt-er Day Seoul 2023 Gen AI 해커톤 : 2023. 08 ~ 2023. 09
-  - [팔로알토 팀의 PlantPal 프론트엔드 개발(단독)(Flutter)](레포준비중)[준비중]
+  - [팔로알토 팀의 PlantPal 프론트엔드 개발(단독)(Flutter)](https://github.com/jhy0285/Prompter-day-seoul-2023)
 - KaKao Tech Campus 백엔드 2단계(카카오 쇼핑하기 클론코딩)  : 2023. 06 ~ 2023. 08
   - [카카오톡 쇼핑하기 서버(단독)(SpringBoot)](https://github.com/jhy0285/step2-BE-kakao-shop)
 - KaKao Tech Campus 백엔드 3단계(링크나무 프로젝트)  : 2023. 09 ~ 2023. 11
