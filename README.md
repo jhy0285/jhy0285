@@ -22,7 +22,7 @@
 - Prompt-er Day Seoul 2023 Gen AI 해커톤 : 2023. 08 ~ 2023. 08
   - [팔로알토 팀의 PlantPal 프론트엔드 개발(단독)(Flutter)](https://github.com/jhy0285/Prompter-day-seoul-2023)
 - KaKao Tech Campus 백엔드 2단계(카카오 쇼핑하기 클론코딩)  : 2023. 06 ~ 2023. 08
-  - [카카오톡 쇼핑하기 서버(단독)(SpringBoot)](https://github.com/jhy0285/step2-BE-kakao-shop)
+  - [카카오톡 쇼핑하기 서버(단독)(SpringBoot)](https://github.com/jhy0285/kakao-tech-campus-step2-backend)
 - KaKao Tech Campus 백엔드 3단계(링크나무 프로젝트)  : 2023. 09 ~ 2023. 11
   - [링크나무(팀 단위)(SpringBoot)](https://github.com/jhy0285/Team9_BE)
 
