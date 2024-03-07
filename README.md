@@ -8,14 +8,12 @@
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2018. 03 ~ 2025. 02(expected) | Computer Science and Engineering | **Pusan National Univ.** |
-| **Company** | 2022. 06 ~ 2023. 01 | 부산IT 스타트업(패스파인더)에서 웹/앱 프론트 엔드 개발(Flutter)  | **Pathfinder** |
 | **External activities** | 2022. 12 ~ 2023. 02 | 부산 창업팀에서 앱 프론트엔드 개발(Flutter) | **JupJup** |
 | **External activities** | 2023. 03 ~ 2023. 11 | 카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot) | **KaKao** |
 | **External activities** | 2023. 08 ~ 2023. 08 | SK텔레콤과 OpenAI가 삶을 한층 더 발전시키자는 취지로 개최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
 
 ## 📂 Project
-- 웹어드민 대쉬보드 개발 : 2022. 06. 27 ~ 2023. 01. 31
-    - 기업 내부 코드
+
 -  JupJup 프론트엔드 개발 : 2022. 12. 24 ~ 2023. 02. 25
     -  [우리동네 마감할인 플랫폼 JupJup(단독)(Flutter)](https://github.com/jhy0285/flutter_jupjup)
 - Prompt-er Day Seoul 2023 Gen AI 해커톤 : 2023. 08 ~ 2023. 08
