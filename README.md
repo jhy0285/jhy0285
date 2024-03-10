@@ -24,7 +24,7 @@
   - [링크나무(팀 단위)(SpringBoot)](https://github.com/jhy0285/Team9_BE)
 
 ## 📓 Study
-- [CS, DB, Spring 총정리](https://github.com/jhy0285/computer-science) 
+- [CS, DB, Spring 총정리](https://github.com/jhy0285/CS-ALL-IN-ONE) 
 
 <br>
 
