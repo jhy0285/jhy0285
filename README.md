@@ -24,10 +24,7 @@
   - [링크나무(팀 단위)(SpringBoot)](https://github.com/jhy0285/Team9_BE)
 
 ## 📓 Study
-- [Computer Science](https://github.com/jhy0285/computer-science) 
-- [Spring Boot 꿀통(정리)](https://github.com/jhy0285/spring-boot)
-- [Data InfraStructure](https://github.com/jhy0285/data-infrastructure)
-- [DataBase](https://github.com/jhy0285/database)
+- [CS, DB, Spring 총정리](https://github.com/jhy0285/computer-science) 
 
 <br>
 
