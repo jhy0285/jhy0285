@@ -10,8 +10,8 @@
 | **Education** | 2018. 03 ~ 2025. 02(expected) | Computer Science and Engineering | **Pusan National Univ.** |
 | **Internship** | 2022. 06 ~ 2023. 01 | 부산 IT 스타트업(패스파인더)에서 프론트엔드 개발(Flutter)| **PathFinder** |
 | **External activities** | 2022. 12 ~ 2023. 02 | 부산 창업팀에서 앱 프론트엔드 개발(Flutter) | **JupJup** |
-| **External activities** | 2023. 03 ~ 2023. 11 | 카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot) | **KaKao** |
-| **External activities** | 2023. 08 ~ 2023. 08 | SK텔레콤과 OpenAI가 삶을 한층 더 발전시키자는 취지로 개최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
+| **Tech Program** | 2023. 03 ~ 2023. 11 | 카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot) | **KaKao** |
+| **Hackathon** | 2023. 08 ~ 2023. 08 | SK텔레콤과 OpenAI가 삶을 한층 더 발전시키자는 취지로 개최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
 
 ## 📂 Project
 
