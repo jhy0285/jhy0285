@@ -26,7 +26,7 @@
 
 ## 📓 Study
 - [Algorithm](https://github.com/jhy0285/Algorithm)
-- [백엔드 Play-Ground](https://github.com/jhy0285/CS-ALL-IN-ONE) 
+- [백엔드 Play-Ground](https://github.com/jhy0285/springboot-playground) 
 - [CS, DB, Spring 정리](https://github.com/jhy0285/CS-ALL-IN-ONE) 
 
 <br>
