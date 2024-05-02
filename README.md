@@ -2,16 +2,16 @@
 
 
 ## 📝 Blog
-[깃허브 블로그](https://jhy0285.github.io/)
+[GitHub Blog](https://jhy0285.github.io/)
 
 ## 🗓️ Activity 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2018. 03 ~ 2025. 02(expected) | Computer Science and Engineering | **Pusan National Univ.** |
-| **Internship** | 2022. 06 ~ 2023. 01 | 부산 IT 스타트업에서 어드민 대쉬보드 개발(Flutter)| **PathFinder** |
-| **External activities** | 2022. 12 ~ 2023. 02 | 부산 창업팀에서 할인 배달 플랫폼 프론트 개발(Flutter) | **JupJup** |
+| **Internship** | 2022. 06 ~ 2023. 01 | 어드민 대쉬보드 개발(Flutter)| **PathFinder** |
+| **External activities** | 2022. 12 ~ 2023. 02 | 할인 배달 플랫폼 프론트 개발(Flutter) | **JupJup** |
 | **Tech Program** | 2023. 03 ~ 2023. 11 | 카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot) | **KaKao** |
-| **External activities** | 2023. 08 ~ 2023. 08 | SK텔레콤과 OpenAI가 삶을 한층 더 발전시키자는 취지로 개최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
+| **External activities** | 2023. 08 ~ 2023. 08 | SK텔레콤 && OpenAI에서 주최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
 
 ## 📂 Project
 
@@ -25,7 +25,9 @@
   - [링크나무(팀 단위)(SpringBoot)](https://github.com/jhy0285/Team9_BE)
 
 ## 📓 Study
-- [CS, DB, Spring 총정리](https://github.com/jhy0285/CS-ALL-IN-ONE) 
+- [Algorithm](https://github.com/jhy0285/Algorithm)
+- [백엔드 Play-Ground](https://github.com/jhy0285/CS-ALL-IN-ONE) 
+- [CS, DB, Spring 정리](https://github.com/jhy0285/CS-ALL-IN-ONE) 
 
 <br>
 
