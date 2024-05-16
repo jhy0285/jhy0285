@@ -14,7 +14,7 @@
 | **Education** | 2018. 03 ~ 2025. 02(expected) | Computer Science and Engineering | **Pusan National Univ.** |
 | **Internship** | 2022. 06 ~ 2023. 01 | 어드민 대쉬보드 개발(Flutter)| **PathFinder** |
 | **External activities** | 2022. 12 ~ 2023. 02 | 할인 배달 플랫폼 프론트 개발(Flutter) | **JupJup** |
-| **Tech Program** | 2023. 03 ~ 2023. 11 | [카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot)](ㅗㅅ센) | **KaKao** |
+| **Tech Program** | 2023. 03 ~ 2023. 11 | [카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot)](https://github.com/jhy0285/certificate/blob/main/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EC%88%98%EB%A3%8C%EC%A6%9D_%EC%A1%B0%EC%98%81%EC%A7%84.pdf) | **KaKao** |
 | **External activities** | 2023. 08 ~ 2023. 08 | SK텔레콤 && OpenAI에서 주최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
 | **External activities** | 2024. 05 ~ 진행중 | 공공데이터를 활용한 MZ세대 커뮤니티 사이트 | **ForMZ** |
 
