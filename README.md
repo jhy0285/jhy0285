@@ -40,7 +40,7 @@
 - [백엔드 Play-Ground](https://github.com/jhy0285/springboot-playground) 
 - [CS, DB, Spring 정리](https://github.com/jhy0285/CS-ALL-IN-ONE) 
 
-## 📓 Certificate 
+## 📋 Certificate 
 - [SQLD](https://github.com/jhy0285/certificate/blob/main/SQLD_%EC%9E%90%EA%B2%A9%EC%A6%9D_%EC%A1%B0%EC%98%81%EC%A7%84.pdf)
 
 <br>
