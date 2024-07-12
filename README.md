@@ -40,6 +40,9 @@
 - [백엔드 Play-Ground](https://github.com/jhy0285/springboot-playground) 
 - [CS, DB, Spring 정리](https://github.com/jhy0285/CS-ALL-IN-ONE) 
 
+## 📓 Certificate 
+- [SQLD](https://github.com/jhy0285/Algorithm)
+
 <br>
 
 |Techs that I've used at least once 👍|Techs that I'm focusing on 🔥| Techs that I want to learn 🌈|
