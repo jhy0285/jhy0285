@@ -1,8 +1,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jhy0285%20Github&fontSize=90"/></p>
 
 ## 🌠 Motto
-애매하게 아는 것을 항상 경계하자 <br>
-영원한 기억은 없다. 그러나 반복과 고뇌는 가치있는 기억을 형성한다. <br>
+애매하게 아는 것을 항상 경계하자. <br><br>
+영원한 기억은 없다.<br><br>
+반복과 고뇌는 가치있는 기억을 형성한다. <br><br>
 꾸준한 기록, 생각하는 것을 멈추지 말자.
 
 ## 📝 Blog
