@@ -17,7 +17,7 @@
 | **External activities** | 2022. 12 ~ 2023. 02   | 할인 배달 플랫폼 프론트 개발(Flutter) | **JupJup** |
 | **Tech Program** | 2023. 03 ~ 2023. 11   | [카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot)](https://github.com/jhy0285/certificate/blob/main/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EC%88%98%EB%A3%8C%EC%A6%9D_%EC%A1%B0%EC%98%81%EC%A7%84.pdf) | **KaKao** |
 | **External activities** | 2023. 08 ~ 2023. 08 | SK텔레콤 && OpenAI에서 주최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
-| **External activities** | 2024. 05 ~ 진행중 | 부산의 다채로운 자연환경을 즐길 수 있는 등산 및 트레킹 코스를 소개하는 부산 트레킹 가이드 | **Mandi** |
+| **External activities** | 2024. 05 ~ 2024. 09 | 부산의 다채로운 자연환경을 즐길 수 있는 등산 및 트레킹 코스를 소개하는 부산 트레킹 가이드 | **Mandi** |
 | **Tech Program** | 2024. 09 ~ 2025. 02 | KT에이블 AI Track 6기 | **KT** |
 
 ## 📂 Project
@@ -33,7 +33,7 @@
   - [카카오톡 쇼핑하기 서버(단독)(SpringBoot)](https://github.com/jhy0285/kakao-tech-campus-step2-backend)
 - KaKao Tech Campus 백엔드 3단계(링크나무 프로젝트)  : 2023. 09 ~ 2023. 11
   - [링크나무(팀 단위)(SpringBoot)](https://github.com/jhy0285/Team9_BE)
-- 부산 트래킹 코스 추천 플랫폼 Mandi 백엔드 개발 : 2024. 05 ~ 진행중
+- 부산 트래킹 코스 추천 플랫폼 Mandi 백엔드 개발 : 2024. 05 ~ 2024. 09
   - [만디(팀 단위)(SpringBoot)](https://github.com/jhy0285/Mandi)
 
 
