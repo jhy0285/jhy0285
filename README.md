@@ -34,7 +34,7 @@
 - KaKao Tech Campus 백엔드 3단계(링크나무 프로젝트)  : 2023. 09 ~ 2023. 11
   - [링크나무(팀 단위)(SpringBoot)](https://github.com/jhy0285/Team9_BE)
 - 부산 트래킹 코스 추천 플랫폼 Mandi 백엔드 개발 : 2024. 05 ~ 2024. 09
-  - [만디(팀 단위)(SpringBoot)](https://github.com/jhy0285/Mandi)
+  - [만디(팀 단위)(SpringBoot)](https://github.com/jhy0285/mandi-backend)
 
 
 ## 📓 Study
