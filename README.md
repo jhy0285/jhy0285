@@ -37,7 +37,7 @@
 - 부산 트래킹 코스 추천 플랫폼 Mandi 백엔드 개발 : 2024. 05 ~ 2024. 09
   - [만디(SpringBoot)](https://github.com/jhy0285/mandi-backend)
  - 농작물 보호를 위한 고정형 경계 터렛 로봇 AlphaTron 백엔드 개발 : 2024. 08 ~ 2024. 10
-  - [알파트론(SpringBoot)](https://github.com/jhy0285/Alphatron)
+   - [알파트론(SpringBoot)](https://github.com/jhy0285/Alphatron)
 
 ## 📓 Study
 - [Algorithm](https://github.com/jhy0285/Algorithm)
