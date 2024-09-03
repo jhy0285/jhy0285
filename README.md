@@ -18,6 +18,7 @@
 | **Tech Program** | 2023. 03 ~ 2023. 11   | [카카오 테크 캠퍼스 1기 백엔드 코스 수료(SpringBoot)](https://github.com/jhy0285/certificate/blob/main/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EC%88%98%EB%A3%8C%EC%A6%9D_%EC%A1%B0%EC%98%81%EC%A7%84.pdf) | **KaKao** |
 | **External activities** | 2023. 08 ~ 2023. 08 | SK텔레콤 && OpenAI에서 주최한 Generative AI 해커톤| **SKTelecom, OpenAI** |
 | **External activities** | 2024. 05 ~ 2024. 09 | 부산의 다채로운 자연환경을 즐길 수 있는 등산 및 트레킹 코스를 소개하는 부산 트레킹 가이드 | **Mandi** |
+| **External activities** | 2024. 08 ~ 2024. 10 | 농작물 보호 알파트론 | **Alphatron** |
 | **Tech Program** | 2024. 09 ~ 2025. 02 | KT에이블 AI Track 6기 | **KT** |
 
 ## 📂 Project
